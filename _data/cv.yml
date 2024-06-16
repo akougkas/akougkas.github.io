@@ -1,163 +1,97 @@
-basics:
-  name: Anthony Kougkas
-  label: Assistant Research Professor
-  email: a.kougkas@gmail.com
-  phone: +1 312 493 9389
-  website: akougkas.io
-  summary: I am seeking an academic position to advance my research expertise, hone
-    my teaching skills, and train future scientists and leaders, ultimately becoming
-    a pivotal member of your esteemed faculty. I am committed to advancing data-centric
-    computing to accelerate scientific discovery, with a long-term goal of developing
-    exascale-ready data management and storage solutions.
-  location:
-    city: Chicago
-    region: IL
-    countryCode: US
-  profiles:
-  - network: Google Scholar
-    url: https://scholar.google.com/citations?user=hiNO0EEAAAAJ&hl=en
-  - network: LinkedIn
-    url: https://www.linkedin.com/in/anthonykougkas/
-work:
-  - company: Illinois Institute of Technology
-    position: Assistant Research Professor
-    startDate: 2019-06
-    summary: Research in High-Performance Computing, specifically in I/O and data management at scale.
-  - company: Argonne National Laboratory
-    position: Guest Research Faculty
-    startDate: 2024-01
-    summary: Collaboration on DOE-funded research project in HPC.
-  - company: Gnosis Research Center
-    position: Associate Director
-    startDate: 2023-05
-    summary: Leading research initiatives and managing interdisciplinary teams.
-  - company: Illinois Institute of Technology
-    position: Research Assistant
-    startDate: 2015-08
-    endDate: 2019-05
-    summary: Conducted research in various HPC projects.
-  - company: Illinois Institute of Technology
-    position: Teaching Assistant
-    startDate: 2013-08
-    endDate: 2015-05
-    summary: Assisted in teaching and mentoring students.
-  - company: Argonne National Laboratory
-    position: Graduate Research Aide
-    startDate: 2015-05
-    endDate: 2015-08
-    summary: Worked on mitigating cross-application I/O interference.
-  - company: Hellenic Army
-    position: Captain
-    startDate: 2004-05
-    endDate: 2013-02
-    summary: Served as Information and Security Officer, and Public Relations Officer for the Presidential Guard.
-education:
-  - institution: Illinois Institute of Technology
-    area: Computer Science
-    studyType: Ph.D.
-    startDate: 2013
-    endDate: 2019
-    advisor: Dr. Xian-He Sun
-  - institution: University of Piraeus
-    area: Computer Science
-    studyType: M.Sc.
-    startDate: 2010
-    endDate: 2012
-    advisor: Dr. Maria Virvou
-  - institution: Hellenic Army Academy
-    area: Military Leadership
-    studyType: B.Sc.
-    startDate: 2000
-    endDate: 2004
-publications:
-  - title: MegaMmap: Blurring the Boundary Between Memory and Storage for Data-Intensive Workloads
-    authors: L. Logan, J. Cernuda, X.-H. Sun, and A. Kougkas
-    journal: SC
-    year: 2024
-    summary: Submitted to the International Conference for High Performance Computing, Networking, Storage and Analysis.
-  - title: LabStor: A Modular and Extensible Platform for Developing High-Performance, Customized I/O Stacks in Userspace
-    authors: L. Logan, J. Cernuda, J. Lofstead, X. Sun, and A. Kougkas
-    journal: SC
-    year: 2022
-    summary: In Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis.
-  - title: DLIO: A Data-Centric Benchmark for Scientific Deep Learning Applications
-    authors: H. Devarajan, H. Zheng, A. Kougkas, X.-H. Sun, and V. Vishwanath
-    journal: CCGRID
-    year: 2021
-    summary: In IEEE/ACM 21st International Symposium on Cluster, Cloud and Internet Computing. BEST PAPER AWARD.
-  - title: LABIOS: A Label-Based I/O System
-    authors: A. Kougkas, H. Devarajan, X.-H. Sun, and J. Lofstead
-    journal: HPDC
-    year: 2019
-    summary: In the 28th International Symposium on High-Performance Parallel and Distributed Computing. BEST PAPER AWARD.
-  - title: Hermes: A Heterogeneous-Aware Multi-Tiered Distributed I/O Buffering System
-    authors: A. Kougkas, H. Devarajan, and X. Sun
-    journal: HPDC
-    year: 2018
-    summary: In Proceedings of the 27th International Symposium on High-Performance Parallel and Distributed Computing.
-projects:
-  - name: IOWarp
-    description: A project involving GPT technology in a data management platform for scientific workflows.
-    startDate: 2024
-    status: Pending
-  - name: Hermes
-    description: Extending the HDF Library to Support Intelligent I/O Buffering for Deep Memory and Storage Hierarchy Systems.
-    startDate: 2018
-    endDate: 2023
-    status: Completed
-  - name: IRIS
-    description: A Unified Data Access Framework for the Merging of Compute-centric and Data-centric Storage.
-    startDate: 2019
-    endDate: 2023
-    status: Completed
-  - name: ChronoLog
-    description: A High-Performance Storage Infrastructure for Activity and Log Workloads.
-    startDate: 2021
-    status: Active
-  - name: Coeus
-    description: Accelerating Scientific Insights Using Enriched Metadata.
-    startDate: 2022
-    status: Active
-volunteer:
-  - organization: IDT/IIMSS
-    position: Volunteer
-    startDate: 2011
-    endDate: 2011
-  - organization: CCGrid
-    position: Volunteer
-    startDate: 2014
-    endDate: 2014
-  - organization: Cluster
-    position: Volunteer
-    startDate: 2015
-    endDate: 2015
-  - organization: IPDPS
-    position: Volunteer
-    startDate: 2016
-    endDate: 2016
-awards:
-  - title: Best Paper Award
-    date: 2021
-    awarder: 21st IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing (CCGrid)
-  - title: Karsten Schwan Best Paper Award
-    date: 2019
-    awarder: 28th International ACM Symposium on High-Performance Parallel and Distributed Computing (HPDC)
-  - title: Graduate Speaker
-    date: 2019
-    awarder: Illinois Institute of Technology
-  - title: Best Student Paper Award
-    date: 2018
-    awarder: Illinois Institute of Technology
-  - title: Teaching Assistant of the Year
-    date: 2014
-    awarder: Illinois Institute of Technology
-  - title: TSAO Foundation Scholarship
-    date: 2014
-    awarder: TSAO Foundation
-  - title: Fellowship for Academic Excellence
-    date: 2012
-    awarder: University of Piraeus
-certificates:
-  - name: Label-Based Data Representation I/O Process and System
-    date: 2021-12-02
-    issuer: US Patent No: US 2021/0374152 A1
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Albert Einstein
+    - name: Date of Birth
+      value: 14th March 1879
+    - name: Languages
+      value: English, German
+
+- title: Education
+  type: time_table
+  contents:
+    - title: PhD
+      institution: University of Zurich, Zurich, Switzerland
+      year: 1905
+      description:
+        - Description 1.
+        - Description 2.
+        - title: Description 3.
+          contents:
+            - Sub-description 1.
+            - Sub-description 2.
+    - title: Federal teaching diploma
+      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
+      year: 1900
+      description:
+        - Description 1.
+        - Description 2.
+
+- title: Experience
+  type: time_table
+  contents:
+    - title: Professor of Theoretical Physics
+      institution: Institute for Advanced Study, Princeton University
+      year: 1933 - 1955
+      description:
+        - Description 1.
+        - Description 2.
+        - title: Description 3.
+          contents:
+            - Sub-description 1.
+            - Sub-description 2.
+    - title: Visiting Professor
+      institution: California Institute of Technology, Pasadena, California, US
+      year: 1933
+      description:
+        - Description 1.
+        - Description 2.
+
+    - title: Director
+      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
+      year: 1917-1933
+
+    - title: Professor of Theoretical Physics
+      institution: Karl-Ferdinand University, Prague, Czechoslovakia
+      year: 1911 - 1917
+      description:
+
+    - title: Associate Professor of Theoretical Physics
+      institution: University of Zurich, Zurich, Switzerland
+      year: 1909 - 1911
+
+- title: Open Source Projects
+  type: time_table
+  contents:
+    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+      year: 2015-now
+      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - year: 1921
+      items:
+        - Nobel Prize in Physics
+        - Matteucci Medal
+    - year: 2029
+      items:
+        - Max Planck Medal
+
+- title: Academic Interests
+  type: nested_list
+  contents:
+    - title: Topic 1.
+      items:
+        - Description 1.
+        - Description 2.
+    - title: Topic 2.
+      items:
+        - Description 1.
+        - Description 2.
+
+- title: Other Interests
+  type: list
+  contents:
+    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
