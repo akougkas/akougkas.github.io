@@ -12,3 +12,5 @@ node_modules/
 vendor
 .idea
 Gemfile.lock
+package-lock.json
+package.json
