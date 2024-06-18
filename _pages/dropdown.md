@@ -1,15 +1,15 @@
 ---
 layout: page
 title: submenus
-nav: true
+nav: false
 nav_order: 8
 dropdown: true
 children:
-  - title: publications
-    permalink: /publications/
+  - title: profiles
+    permalink: /profiles/
   - title: divider
-  - title: projects
-    permalink: /projects/
+  - title: cv
+    permalink: /cv/
   - title: divider
   - title: blog
     permalink: /blog/

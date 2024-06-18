@@ -369,30 +369,30 @@ ul.task-list input[type="checkbox"] {
 
 // Social (bottom)
 
-.social {
-  text-align: center;
+// .social {
+//   text-align: center;
 
-  .contact-icons {
-    font-size: 4rem;
+//   .contact-icons {
+//     font-size: 1rem;
 
-    a {
-      i::before {
-        color: var(--global-text-color);
-        transition-property: all 0.2s ease-in-out;
-      }
+//     a {
+//       i::before {
+//         color: var(--global-text-color);
+//         transition-property: all 0.2s ease-in-out;
+//       }
 
-      &:hover {
-        i::before {
-          color: var(--global-theme-color);
-        }
-      }
-    }
-  }
+//       &:hover {
+//         i::before {
+//           color: var(--global-theme-color);
+//         }
+//       }
+//     }
+//   }
 
-  .contact-note {
-    font-size: 0.8rem;
-  }
-}
+//   .contact-note {
+//     font-size: 0.5rem;
+//   }
+// }
 
 .wechat-modal {
   display: none;
@@ -427,12 +427,12 @@ ul.task-list input[type="checkbox"] {
 // Footer
 footer.fixed-bottom {
   background-color: var(--global-footer-bg-color);
-  font-size: 0.75rem;
+  font-size: 0.90rem;
 
   .container {
     color: var(--global-footer-text-color);
-    padding-top: 9px;
-    padding-bottom: 8px;
+    padding-top: 3px;
+    padding-bottom:1px;
     text-align: center;
   }
 
