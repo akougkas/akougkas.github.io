@@ -13,17 +13,18 @@ profile:
   image_circular: true # crops the image to make it circular
   more_info: >
       <div style="text-align: center;"><strong> Anthony Kougkas</strong></div>
+      <div style="text-align: center;font-size: 0.65em;">
+      <p> Assistant Research Professor</p></div><br>
       <div style="text-align: center;font-size: 0.75em;">
       <p> Data Management and Storage </p> 
       <p> Distributed and Parallel Systems</p>
       <p> Input/Output for HPC & AI/ML</p>
       <br><br>
-      <p> Assistant Research Professor</p>
       <p><i class="fa fa-university" aria-hidden="true"></i> Illinois Tech</p>
       <p><i class="fas fa-map-marker-alt"></i> Chicago, IL</p>
       <p><i class="fas fa-envelope"></i> <a href="mailto:a.kougkas@gmail.com">Email</a></p>
       <p><i class="fas fa-graduation-cap"></i> <a href="https://scholar.google.com/citations?user=hiNO0EEAAAAJ&hl=en">Google Scholar</a></p>
-      <p><i class="fab fa-github"></i> <a href="https://github.com/grc-iit">Github</a></p>
+      <p><i class="fab fa-github"></i> <a href="https://github.com/orgs/grc-iit/repositories">Github</a></p>
       <p><i class="fab fa-orcid"></i> <a href="https://orcid.org/0000-0003-3943-663X">OrcID</a></p>
       <p><i class="fab fa-linkedin"></i> <a href="https://www.linkedin.com/in/anthonykougkas/">LinkedIn</a></p>
       </div>
@@ -54,7 +55,23 @@ I am an Assistant Research Professor in computer science at [Illinois Tech](http
 
 **data access interferene**: data access optimizations and heterogeneous data buffer coordination to prevent I/O interference and ensure efficient data movement
 
-### projects
+### contributions & highlights
+
+**publications**: advancing the fields of HPC data management and storage with over 50 peer-reviewed publications.
+
+**patents**: US patent for the "Label-Based Data Representation I/O Process and System" (US 2021/0374152 A1).
+
+**funding**: strong track record in acquiring research funding, successfully securing over $8M of federal grants.  
+
+**mentoring**: co-advising eight doctoral students in data streaming, AI-powered I/O, and programmable storage.
+
+**awards**: Best Paper Awards at CCGrid'21 for the DLIO and at HPDC'19 for the LABIOS distributed data platform.
+
+**software**: deployed open-source software like Hermes, ChronoLog, and DLIO (now in Apache MLPerf suite).
+
+**teaching**: active learning, engaging teaching environment, emphasizing hands-on, lab-focused experiences.
+
+### collaborative projects
 
 <span style="vertical-align:middle;"><img src="/assets/img/nsf_logo.png" height="30px" /></span> <strong>hermes</strong>: A state-of-the-art I/O buffering platform for HPC environments, utilizing HDF5 data structures to optimize data placement across memory and storage hierarchies, including NVRAM and SSDs. <i class="fas fa-dollar-sign"> 2.87M</i>
 
@@ -69,23 +86,6 @@ I am an Assistant Research Professor in computer science at [Illinois Tech](http
 <span style="vertical-align:middle;"><img src="/assets/img/nsf_logo.png" height="30px" /></span> <strong>labios</strong>: An innovative, energy-efficient label-based I/O system for multi-tiered HPC environments, providing solutions such as multi-tenancy, resource scheduling, and seamless integration with diverse storage pools. <i class="fas fa-dollar-sign"> 600K</i>
 
 <span style="vertical-align:middle;"><img src="/assets/img/doe_logo.png" height="25px" /></span> <strong>deepio</strong>: A scalable I/O runtime for AI workflows, optimizing DNN model updates between training and inference tasks. It balances inference quality, training duration, and throughput using novel caching, versioning, and asynchronous data transfer techniques. <i class="fas fa-dollar-sign"> 135K</i>
-
-### key contributions
-
-**publications**: over 50 peer-reviewed publications, contributing significantly to the fields of HPC, data management, and storage systems.
-
-**patents**: US patent for the "Label-Based Data Representation I/O Process and System" (US 2021/0374152 A1).
-
-**funding**: strong track record in acquiring competitive research grants, successfully securing over $8M of federal funding.  
-
-**mentoring**: current co-advisor of 10 graduate students (8 PhD + 2 Masters), 1 undergraduate student, and 3 full-time engineers/staff.
-
-**awards**: Best Paper Award at CCGrid'21 for DLIO benchmark and Best Paper Award at HPDC'19 for innovative LABIOS data platform.
-
-**software**: developed and deployed software systems such as Hermes, LABIOS, ChronoLog, and IRIS, addressing key challenges in data management in HPC+AI environments.
-
-**teaching**: fostering an active and engaging learning environment emphasizing hands-on, lab-focused experiences and active mentoring.
-
 
 ## contact  
 For collaboration opportunities, please reach out via [Email](mailto:a.kougkas@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/anthonykougkas/).
