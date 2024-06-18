@@ -36,25 +36,23 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-### introduction
-
 I am an Assistant Research Professor in computer science at [Illinois Tech](https://www.iit.edu/directory/people/antonios-kougkas), where I serve as the Associate Director of the [Gnosis Research Center](https://grc.iit.edu). My work at Illinois Tech and as a Guest Research Faculty at [Argonne National Laboratory](https://www.anl.gov/mcs) involves developing cutting-edge data management and storage solutions. With a strong focus on High-Performance Computing (HPC) and Artificial Intelligence (AI), I lead innovative projects and guide the next generation of computer scientists.
 
 ### research interests
 
-**data management and storage systems**: Exploring multi-tiered storage architectures and distributed storage solutions to efficiently manage and replicate large datasets, employing advanced compression techniques.
+**data management and storage systems**: multi-tiered storage architectures, distributed i/o, data management for large datasets, advanced data compression techniques
 
-**i/o optimization**: Developing asynchronous input/output (I/O) techniques, multi-tiered buffering systems, data prefetching algorithms, and I/O scheduling strategies to enhance throughput and reduce latency in HPC environments.
+**i/o optimization**: asynchronous input/output (I/O) techniques, hierarchhical data buffering, data prefetching algorithms, and I/O scheduling strategies
 
-**distributed scientific workflows**: Optimizing workflow execution through dataflow semantics, context-aware active storage, and hierarchical data streaming engines for high-throughput scientific applications.
+**distributed scientific workflows**: workflow execution optimizations through dataflow semantics, context-aware active storage, and hierarchical data streaming engines for high-throughput scientific applications.
 
-**AI and machine learning integration**: Advancing data management for AI/ML frameworks (e.g., TensorFlow, PyTorch) with exascale-ready storage solutions and accelerating AI-driven scientific discovery.
+**AI and machine learning integration**: advanced data management for AI/ML frameworks (e.g., TensorFlow, PyTorch) with exascale-ready storage solutions and AI-driven I/O optimizations
 
-**i/o bottlenecks**: Implementing automated detection and optimization techniques to address bottlenecks in HPC and deep learning workflows, enabling efficient resource utilization and improved performance.
+**i/o bottlenecks**: automated detection and optimization techniques to address bottlenecks in HPC and deep learning workflows
 
-**task-based i/o**: Proposing novel task-driven frameworks and data labelling techniques to optimize performance and resource utilization in distributed computing environments.
+**task-based i/o**: novel task-driven frameworks and data labelling techniques to optimize performance and resource utilization in distributed computing
 
-**data prefetching, compression, compression**: Developing hierarchical prefetching techniques for scientific workflows involves optimizing data prefetching to minimize latency, enhancing compression to reduce data size, and coordinating buffer usage to prevent I/O interference and ensure efficient data movement.
+**data access interferene**: data access optimizations and heterogeneous data buffer coordination to prevent I/O interference and ensure efficient data movement
 
 ### projects
 
@@ -66,32 +64,27 @@ I am an Assistant Research Professor in computer science at [Illinois Tech](http
 
 <span style="vertical-align:middle;"><img src="/assets/img/doe_logo.png" height="25px" /></span> <strong>coeus</strong>: A framework that accelerates scientific insights through enriched metadata management, optimizing queries by leveraging AI/ML to balance computation and storage, and enhancing query performance with tiered data placement and staging. <i class="fas fa-dollar-sign"> 750K</i>
 
-<span style="vertical-align:middle;"><img src="/assets/img/doe_logo.png" height="25px" /></span> <strong>dtio</strong>: A task-driven I/O framework for HPC, AI, and Big Data, offering scalable, distributed I/O optimization, enhanced data movement, and improved fault tolerance. <i class="fas fa-dollar-sign"> 750K</i>
+<span style="vertical-align:middle;"><img src="/assets/img/doe_logo.png" height="25px" /></span> <strong>dtio</strong>: A task-driven I/O framework for the hyperconvergence of HPC, AI, and Cloud, offering scalable, distributed I/O optimization, enhanced data movement, and improved fault tolerance. <i class="fas fa-dollar-sign"> 750K</i>
 
 <span style="vertical-align:middle;"><img src="/assets/img/nsf_logo.png" height="30px" /></span> <strong>labios</strong>: An innovative, energy-efficient label-based I/O system for multi-tiered HPC environments, providing solutions such as multi-tenancy, resource scheduling, and seamless integration with diverse storage pools. <i class="fas fa-dollar-sign"> 600K</i>
 
 <span style="vertical-align:middle;"><img src="/assets/img/doe_logo.png" height="25px" /></span> <strong>deepio</strong>: A scalable I/O runtime for AI workflows, optimizing DNN model updates between training and inference tasks. It balances inference quality, training duration, and throughput using novel caching, versioning, and asynchronous data transfer techniques. <i class="fas fa-dollar-sign"> 135K</i>
 
-<span style="vertical-align:middle;"><img src="/assets/img/doe_logo.png" height="25px" /></span> <strong>deepio</strong>: A scalable I/O runtime for AI workflows, optimizing DNN model updates between training and inference tasks. It balances inference quality, training duration, and throughput using novel caching, versioning, and asynchronous data transfer techniques. <i class="fas fa-dollar-sign"> 135K</i>
-
 ### key contributions
 
-**publications**: Over 55 peer-reviewed publications, contributing significantly to the fields of HPC, data management, and storage systems
+**publications**: over 50 peer-reviewed publications, contributing significantly to the fields of HPC, data management, and storage systems.
 
-**patents**: Holder of a US patent for the "Label-Based Data Representation I/O Process and System" (US 2021/0374152 A1)
+**patents**: US patent for the "Label-Based Data Representation I/O Process and System" (US 2021/0374152 A1).
 
-**funding**: Successfully secured over $17.63M in research funding, with $8.55M in active projects, demonstrating a strong track record in acquiring competitive grants
+**funding**: strong track record in acquiring competitive research grants, successfully securing over $8M of federal funding.  
 
-**educational**: Mentored 36 graduate students (8 PhD + 28 Masters), 8 undergraduates, and 3 full-time engineers/staff, fostering the next generation of researchers and professionals
+**mentoring**: current co-advisor of 10 graduate students (8 PhD + 2 Masters), 1 undergraduate student, and 3 full-time engineers/staff.
 
-**awards**: Recipient of several prestigious awards, including the Best Paper Award at CCGrid'21 and the Karsten Schwan Best Paper Award at HPDC'19, recognizing excellence in research and contribution to the field
+**awards**: Best Paper Award at CCGrid'21 for DLIO benchmark and Best Paper Award at HPDC'19 for innovative LABIOS data platform.
 
-**software**: Developed and deployed critical software systems such as Hermes, LABIOS, ChronoLog, and IRIS, addressing key challenges in data management and I/O optimization for HPC environments.
+**software**: developed and deployed software systems such as Hermes, LABIOS, ChronoLog, and IRIS, addressing key challenges in data management in HPC+AI environments.
 
-## mentoring and teaching
-
-- **Mentoring**: Current graduate students (8 PhD + 2 Masters), 1 undergraduate student, and 3 full-time engineers/staff
-- **Teaching Philosophy**: Fostering an active and engaging learning environment emphasizing hands-on, lab-focused experiences and active mentoring, bridging theoretical knowledge with practical application
+**teaching**: fostering an active and engaging learning environment emphasizing hands-on, lab-focused experiences and active mentoring.
 
 
 ## contact  
