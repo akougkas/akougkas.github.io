@@ -72,7 +72,7 @@ i am an assistant research professor in computer science at [illinois tech](http
 
 **publications**: advancing the fields of HPC data management and storage with over 50 peer-reviewed publications.
 
-**patents**: US patent for the "Label-Based Data Representation I/O Process and System" (US 2021/0374152 A1).
+**patents**: US patent for the "Label-Based Data Representation I/O Process and System", [US 2021/0374152 A1](https://patents.google.com/patent/US11630834B2/en).
 
 **funding**: strong track record in acquiring research funding, successfully securing over $8M of federal grants.  
 
