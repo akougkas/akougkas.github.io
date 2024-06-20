@@ -1,0 +1,5 @@
+The [HDF Group](https://www.hdfgroup.org/) is a non-profit organization that supports the development and sustainability of the [HDF5 library](https://www.hdfgroup.org/solutions/hdf5/), a market leader with 95% penetration in scientific data management, supports industries and science institutions across various [domains](https://www.hdfgroup.org/solutions/hdf5/#:~:text=Silicon%20Manufacturing-,Scientific%20Fields,-Astronomy).
+
+Working closely with the HDF Group, we are pioneering next-generation data acceleration technologies. Our project [Hermes](https://github.com/HDFGroup/hermes), a distributed tiered data buffering platform, is now [available](https://github.com/HDFGroup/hermes/releases) under a BSD license, benefiting the wider scientific community.
+
+I am also deeply engaged with the HDF5 community, contributing to the organization of the annual [HDF5 User Group Meeting](https://www.hdfgroup.org/hug/). This international workshop gathers experts to discuss the latest advancements and innovations within the HDF5 ecosystem. 
