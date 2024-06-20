@@ -1,34 +1,135 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"logan":
+  - firstname: ["L.", "Logan"]
+    papers: ["Paper 1", "Paper 2"]
 
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"cernuda":
+  - firstname: ["J.", "J. Cernuda"]
+    papers: ["Paper 3", "Paper 4"]
 
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"sun":
+  - firstname: ["X.-H.", "X.-H. Sun"]
+    papers: ["Hermes: A Heterogeneous-Aware Multi-Tiered Distributed I/O Buffering System", "LABIOS: A Label-Based I/O System"]
 
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"yildirim":
+  - firstname: ["I.", "I. Yildirim"]
+    papers: ["Paper 5"]
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"devarajan":
+  - firstname: ["H.", "H. Devarajan"]
+    papers: ["Hermes: A Heterogeneous-Aware Multi-Tiered Distributed I/O Buffering System", "LABIOS: A Label-Based I/O System"]
 
-"przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"mohror":
+  - firstname: ["K.", "K. Mohror"]
+    papers: ["Paper 6"]
 
-"schrodinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+"tang":
+  - firstname: ["M.", "M. Tang"]
+    papers: ["Paper 7"]
 
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
+"tallent":
+  - firstname: ["N.", "N. Tallent"]
+    papers: ["Paper 8"]
 
-"planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"ye":
+  - firstname: ["J.", "J. Ye"]
+    papers: ["Paper 9"]
+
+"rajesh":
+  - firstname: ["N.", "N. Rajesh"]
+    papers: ["Paper 10"]
+
+"bateman":
+  - firstname: ["K.", "K. Bateman"]
+    papers: ["Paper 11"]
+
+"peterka":
+  - firstname: ["T.", "T. Peterka"]
+    papers: ["Paper 12"]
+
+"yildiz":
+  - firstname: ["O.", "O. Yildiz"]
+    papers: ["Paper 13"]
+
+"morozov":
+  - firstname: ["D.", "D. Morozov"]
+    papers: ["Paper 14"]
+
+"nigmetov":
+  - firstname: ["A.", "A. Nigmetov"]
+    papers: ["Paper 15"]
+
+"nicolae":
+  - firstname: ["B.", "B. Nicolae"]
+    papers: ["Paper 16"]
+
+"bez":
+  - firstname: ["J. L.", "J. L. Bez"]
+    papers: ["Paper 17"]
+
+"gainaru":
+  - firstname: ["A.", "A. Gainaru"]
+    papers: ["Paper 18"]
+
+"lofstead":
+  - firstname: ["J.", "J. Lofstead"]
+    papers: ["LABIOS: A Label-Based I/O System"]
+
+"klasky":
+  - firstname: ["S.", "S. Klasky"]
+    papers: ["Paper 19"]
+
+"lee":
+  - firstname: ["H.", "H. Lee"]
+    papers: ["Paper 20"]
+
+"guo":
+  - firstname: ["L.", "L. Guo"]
+    papers: ["Paper 21"]
+
+"firoz":
+  - firstname: ["J.", "J. Firoz"]
+    papers: ["Paper 22"]
+
+"herbein":
+  - firstname: ["S.", "S. Herbein"]
+    papers: ["Paper 23"]
+
+"zheng":
+  - firstname: ["H.", "H. Zheng"]
+    papers: ["Paper 24"]
+
+"vishwanath":
+  - firstname: ["V.", "V. Vishwanath"]
+    papers: ["Paper 25"]
+
+"feng":
+  - firstname: ["K.", "K. Feng"]
+    papers: ["Paper 26"]
+
+"challa":
+  - firstname: ["P.", "P. Challa"]
+    papers: ["Paper 27"]
+
+"dorier":
+  - firstname: ["M.", "M. Dorier"]
+    papers: ["Paper 28"]
+
+"latham":
+  - firstname: ["R.", "R. Latham"]
+    papers: ["Paper 29"]
+
+"ross":
+  - firstname: ["R.", "R. Ross"]
+    papers: ["Paper 30"]
+
+"he":
+  - firstname: ["S.", "S. He"]
+    papers: ["Paper 31"]
+
+"wang":
+  - firstname: ["Y.", "Y. Wang"]
+    papers: ["Paper 32"]
+
+"haider":
+  - firstname: ["A.", "A. Haider"]
+    papers: ["Paper 33"]

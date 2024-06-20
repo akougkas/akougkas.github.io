@@ -242,7 +242,8 @@ ul.task-list input[type="checkbox"] {
 
 .navbar .dropdown-menu {
   background-color: var(--global-bg-color);
-  border: 1px solid var(--global-divider-color);
+  border: 0.1px solid var(--global-divider-color);
+  padding: 0.1rem 0.5rem;
 
   a:not(.active) {
     color: var(--global-text-color);
@@ -253,12 +254,14 @@ ul.task-list input[type="checkbox"] {
   }
 
   .dropdown-divider {
-    border-top: 1px solid var(--global-divider-color) !important;
+    border-top: 0.1px solid var(--global-divider-color) !important;
   }
 }
 
 .dropdown-item {
   color: var(--global-text-color);
+  font-size: 0.9rem;
+  padding: 0.1rem 0.5rem;
 
   &:hover {
     color: var(--global-hover-color);
@@ -297,8 +300,8 @@ ul.task-list input[type="checkbox"] {
 
   .navbar-brand.social {
     padding-bottom: 0;
-    padding-top: 0;
-    font-size: 1.7rem;
+    padding-top: 0.1;
+    font-size: 1rem;
 
     a {
       i::before {
@@ -367,32 +370,32 @@ ul.task-list input[type="checkbox"] {
   }
 }
 
-// Social (bottom)
+//Social (bottom)
 
-// .social {
-//   text-align: center;
+.social {
+  text-align: center;
 
-//   .contact-icons {
-//     font-size: 1rem;
+  .contact-icons {
+    font-size: 1rem;
 
-//     a {
-//       i::before {
-//         color: var(--global-text-color);
-//         transition-property: all 0.2s ease-in-out;
-//       }
+    a {
+      i::before {
+        color: var(--global-text-color);
+        transition-property: all 0.2s ease-in-out;
+      }
 
-//       &:hover {
-//         i::before {
-//           color: var(--global-theme-color);
-//         }
-//       }
-//     }
-//   }
+      &:hover {
+        i::before {
+          color: var(--global-theme-color);
+        }
+      }
+    }
+  }
 
-//   .contact-note {
-//     font-size: 0.5rem;
-//   }
-// }
+  .contact-note {
+    font-size: 0.5rem;
+  }
+}
 
 .wechat-modal {
   display: none;

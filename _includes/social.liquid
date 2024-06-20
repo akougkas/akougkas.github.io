@@ -7,11 +7,14 @@
 {% if site.whatsapp_number %}
   <a href="https://wa.me/{{ site.whatsapp_number }}" title="whatsapp"><i class="fa-brands fa-whatsapp"></i></a>
 {% endif %}
-{% if site.orcid_id %}
-  <a href="https://orcid.org/{{ site.orcid_id }}" title="ORCID"><i class="ai ai-orcid"></i></a>
-{% endif %}
 {% if site.scholar_userid %}
   <a href="https://scholar.google.com/citations?user={{ site.scholar_userid }}" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
+{% endif %}
+{% if site.work_url %}
+  <a href="{{ site.work_url }}" title="Work"><i class="fa-solid fa-briefcase"></i></a>
+{% endif %}
+{% if site.orcid_id %}
+  <a href="https://orcid.org/{{ site.orcid_id }}" title="ORCID"><i class="ai ai-orcid"></i></a>
 {% endif %}
 {% if site.semanticscholar_id %}
   <a href="https://www.semanticscholar.org/author/{{ site.semanticscholar_id }}" title="Semantic Scholar"><i class="ai ai-semantic-scholar"></i></a>
@@ -61,9 +64,7 @@
 {% if site.blogger_url %}
   <a href="{{ site.blogger_url }}" title="Blogger"><i class="fa-brands fa-blogger-b"></i></a>
 {% endif %}
-{% if site.work_url %}
-  <a href="{{ site.work_url }}" title="Work"><i class="fa-solid fa-briefcase"></i></a>
-{% endif %}
+
 {% if site.wikidata_id %}
   <a href="https://www.wikidata.org/wiki/{{ site.wikidata_id }}" title="Wikidata"><i class="fa-solid fa-barcode"></i></a>
 {% endif %}

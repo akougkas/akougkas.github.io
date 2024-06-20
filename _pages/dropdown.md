@@ -1,16 +1,14 @@
 ---
 layout: page
-title: submenus
-nav: false
-nav_order: 8
+title: more
+nav: true
+nav_order: 7
 dropdown: true
 children:
-  - title: profiles
-    permalink: /profiles/
-  - title: divider
-  - title: cv
-    permalink: /cv/
-  - title: divider
   - title: blog
     permalink: /blog/
+  - title:  network
+    permalink: /network/
+  - title:  repositories
+    permalink: /repositories/
 ---

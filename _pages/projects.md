@@ -5,9 +5,9 @@ permalink: /projects/
 description: A growing collection of your cool projects.
 nav: true
 nav_order: 1
-display_categories: [work]
+display_categories: [PI, Co-PI, Technical Lead]
 horizontal: false
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 ---
 
 <!-- pages/projects.md -->
