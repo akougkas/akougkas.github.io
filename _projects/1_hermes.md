@@ -29,4 +29,3 @@ Hermes' design implications and objectives include maximizing productivity, incr
 
 ## Contact
 For more details, visit the [Gnosis Research Center Hermes project page](https://grc.iit.edu/research/projects/hermes).
-Feel free to adjust any specific details or images as needed.
