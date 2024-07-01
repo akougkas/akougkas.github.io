@@ -695,7 +695,6 @@ $ti-icon-brand-digg: unicode("fa73");
 $ti-icon-brand-dingtalk: unicode("f5ea");
 $ti-icon-brand-discord: unicode("ece3");
 $ti-icon-brand-disney: unicode("f20a");
-$ti-icon-brand-disqus: unicode("edc9");
 $ti-icon-brand-django: unicode("f349");
 $ti-icon-brand-docker: unicode("edca");
 $ti-icon-brand-doctrine: unicode("ef6d");
@@ -6558,9 +6557,6 @@ $ti-icon-zzz-off: unicode("f440");
 }
 .#{$ti-prefix}-brand-disney:before {
   content: $ti-icon-brand-disney;
-}
-.#{$ti-prefix}-brand-disqus:before {
-  content: $ti-icon-brand-disqus;
 }
 .#{$ti-prefix}-brand-django:before {
   content: $ti-icon-brand-django;
