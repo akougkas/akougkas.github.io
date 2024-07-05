@@ -25,7 +25,6 @@ profile:
       <p><i class="fas fa-envelope"></i> <a href="mailto:a.kougkas@gmail.com">email</a></p>
       <p><i class="fas fa-graduation-cap"></i> <a href="https://scholar.google.com/citations?user=hiNO0EEAAAAJ&hl=en">google scholar</a></p>
       <p><i class="fab fa-github"></i> <a href="https://github.com/orgs/grc-iit/repositories">github</a></p>
-      <p><i class="fab fa-orcid"></i> <a href="https://orcid.org/0000-0003-3943-663X">orcID</a></p>
       <p><i class="fab fa-linkedin"></i> <a href="https://www.linkedin.com/in/anthonykougkas/">linkedIn</a></p>
       </div>
 
@@ -86,9 +85,13 @@ i am an assistant research professor in computer science at [illinois tech](http
 
 ## projects
 
-<span style="vertical-align:top;"><img src="/assets/img/nsf_logo.png" height="30px" /></span> <strong>hermes</strong>: a state-of-the-art i/o buffering platform for hpc environments, utilizing hdf5 data structures to optimize data placement across memory and storage hierarchies, including nvram and ssds. <i class="fas fa-dollar-sign"> 2.86m</i>
+<span style="vertical-align:top;"><img src="/assets/img/nsf_logo.png" height="30px" /></span> 
+<strong>hermes</strong>: a state-of-the-art i/o buffering platform for hpc environments, utilizing hdf5 data structures to optimize data placement across memory and storage hierarchies, including nvram and ssds. 
+<i class="fas fa-dollar-sign"> 2.86m</i>
 
-<span style="vertical-align:top;"><img src="/assets/img/nsf_logo.png" height="30px" /></span> <strong>iris</strong>: a unified data access framework merging hpc and analytics and ai, enabling integrated data and metadata management, and intelligent data placement. <i class="fas fa-dollar-sign"> 515k</i>
+<span style="vertical-align:top;"><img src="/assets/img/nsf_logo.png" height="30px" /></span>
+<strong>iris</strong>: a unified data access framework merging hpc and analytics and ai, enabling integrated data and metadata management, and intelligent data placement.
+<i class="fas fa-dollar-sign"> 515k</i>
 
 <span style="vertical-align:top;"><img src="/assets/img/nsf_logo.png" height="30px" /></span> <strong>chronolog</strong>: a high-performance, distributed log storage system that manages activity and log workloads using physical time for event ordering, reducing contention, and enabling elastic scaling across storage tiers. supports plugins, sql-like engines, and tensorflow. <i class="fas fa-dollar-sign"> 2.67m</i>
 
