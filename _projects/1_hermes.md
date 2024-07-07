@@ -4,7 +4,7 @@ title: Hermes
 description: Heterogeneous-Aware Multi-Tiered Distributed I/O Buffering System
 img: assets/img/hermes_logo.png
 importance: 1
-category: Technical Lead
+category: NSF
 related_publications: true
 ---
 

@@ -2,10 +2,10 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: A collection of projects I have worked on.
 nav: true
 nav_order: 1
-display_categories: [PI, Co-PI, Technical Lead]
+display_categories: [NSF, DOE]
 horizontal: false
 social: false # includes social icons at the bottom of the page
 ---
