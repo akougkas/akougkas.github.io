@@ -1,97 +1,150 @@
-- title: General Information
+- title: General
   type: map
   contents:
-    - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+    - name: Name
+      value: Anthony Kougkas
+    - name: Position
+      value: Asssistant Research Professor
+    - name: Email
+      value: a.kougkas@gmail.com
+    - name: Phone
+      value: +1 (312) 493-9389
+    - name: Location
+      value: Chicago, IL, USA
+    - name: LinkedIn
+      value: https://www.linkedin.com/in/anthonykougkas/
+    - name: Summary
+      value: Experienced research leader dedicated to advancing systems research, with a focus on data management and storage solutions for large-scale scientific applications and AI/ML. Demonstrated ability to secure funding, lead impactful projects, and mentor the next generation of researchers. Actively engaged in the research community, contributing to conferences, workshops, and open-source projects. Committed to working with diverse stakeholders to develop innovative solutions that address the challenges of data-intensive computing and accelerate scientific breakthroughs.
+
+- title: Interests
+  type: nested_list
+  contents:
+    - title: Distributed and Parallel I/O, HPC Storage and Data Management, Data Systems for Scientific ML/AI
+      items:
+        - Optimizing data management and I/O in high-performance computing (HPC).
+        - Designing and developing innovative software systems that address the challenges of efficiently storing, accessing, and processing massive datasets in the data-centric era.
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+    - title: PhD in Computer Science
+      institution: Illinois Institute of Technology
+      year: 2013-2019
+      description: 
+        - "Dissertation: Accelerating I/O using Data Labels: A Contention-Aware, Multi-Tiered, Scalable, and Distributed I/O Platform."
+        - "Advisor: Dr. Xian-He Sun"
 
+    - title: M.Sc. in Computer Science
+      institution: University of Piraeus
+      year: 2010-2012
+      description:
+        - "Thesis advisor: Dr. Maria Virvou"
+
+    - title: B.Sc. in Military Leadership
+      institution: Hellenic Army Academy
+      year: 2000-2004
+      
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Guest Research Faculty
+      institution: Mathematics and Computer Science, Argonne National Laboratory
+      year: 5/2024-now
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Investigating and optimizing new I/O principles, algorithms, and data representations to support diverse and conflicting I/O workloads on leadership-class supercomputers.
+        - Utilizing state-of-the-art computing facilities to perform advanced simulations and data-intensive computations, ensuring the effective convergence of HPC, AI, and Big Data analytics.
+        - Contribute to the advancement of fault tolerance, resilience, and quality-of-service guarantees in I/O operations, ensuring the robustness of data-intensive workflows.
+
+    - title: Assistant Research Professor
+      institution: Department of Computer Science, Illinois Institute of Technology
+      year: 6/2019-now
       description:
-        - Description 1.
-        - Description 2.
+        - Spearheading comprehensive research initiatives, including fundraising, at the Gnosis Research Center, focusing on High-Performance Computing (HPC) and data management for scientific ML/AI.          
+        - Conducting high-impact, original research that contributes to peer-reviewed publications and advances the field. 
+        - Managed computational resources and strategically secured new cyberinfrastructure, utilizing a combination of in-house, publicly-funded computer clusters and nationally available resources like ChameleonCloud, to enable competitive research and a high rate of software artifact production.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: Graduate Research Assistant
+      institution: Scalable Computing Software Lab, Illinois Institute of Technology
+      year: 8/2015-5/2019
       description:
+        - "LABIOS: Label-based I/O System to Bridge Storage Semantics using Asynchronous I/O"
+        - "IRIS: Convergence of HPC and BigData via a Unified Storage Access Layer"
+        - "Hermes: Heterogeneous-aware Deep Memory and Storage  Hierarchy I/O buffering for HPC"
+        - "Harmonia: An Interference-aware Dynamic I/O Scheduler for Shared Burst Buffers"
+        - "KV2FS: Leveraging Key-Value Stores to Enhance Parallel I/O Performance for Complex Workloads (e.g. images and videos for ML training algorithms)"
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+    - title: Graduate Research Aide
+      institution: Mathematics and Computer Science, Argonne National Laboratory
+      year: 5/2015-8/2015
+      description:
+        - "BBIO: A new framework mitigating cross-application I/O interference by redirecting traffic to burst buffers."
+  
+- title: Professional
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Deputy Director
+      institution: Gnosis Research Center - Illinois Institute of Technology
+      year: 5/2023-now
+      description: 
+        - Leading the center's research and development activities, including the design and implementation of innovative software systems for data management and storage in HPC and AI/ML applications.
+        - Overseeing the center's strategic planning, budgeting, and fundraising efforts to secure external funding and support the center's research agenda.
+        - Mentoring and advising graduate students and junior researchers, fostering a collaborative and inclusive research environment that promotes creativity and innovation.
+
+    - title: Associate Director of Research and Student Development
+      institution: Scalable Computing Software Lab - Illinois Institute of Technology
+      year: 6/2019-4/2023
+      description: 
+        - Coordinated research activities and mentored graduate students, postdocs, and junior researchers to ensure the successful completion of research projects.
+        - Developed and maintained relationships with industry partners, funding agencies, and other stakeholders to secure funding and support the lab's research agenda.
+        - Organized workshops, seminars, and other events to promote collaboration and knowledge sharing among researchers and students.
+
+    - title: Officer of the Hellenic Armed Forces (rank Captain)
+      institution: Military General Staff, Hellenic Army
+      year: 5/2004-2/2013
+      description: 
+        - Served in various leadership positions, including platoon leader, company commander, and staff officer, responsible for planning and executing military operations.
+        - Collected, analyzed, interpreted and distributed military information through secure networks.
+        - Head of security systems and processes in a widely ranged military network, administered all access to the network and coordinated the flow of information.
+
+- title: Software
+  type: nested_list
+  contents:
+    - title: "Hermes: Distributed multi-tiered I/O buffering platform"
+      description: "https://github.com/HDFGroup/hermes" 
+    - title: "ChronoLog: High-performance, distributed, shared log storage"
+      description: "https://github.com/grc-iit/chronolog"
+    - title: "Labios: Label-based, scalable, and adaptive I/O system"
+      description: "https://github.com/grc-iit/labios"
+    - title: "IRIS: Unified data access framework via integrated storage"
+      description: "https://github.com/grc-iit/iris" 
+    - title: "DLIO: Deep-Learning I/O bencmark"
+      description: "https://github.com/grc-iit/dlio" 
+      note: "Merged into industry-standard ML suite Apache MLPerf Storage"
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2021
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - CCGRID 21 Best Paper Award
+    - year: 2019
       items:
-        - Max Planck Medal
+        - HPDC 19 Best Paper Award
+        - Illinois Tech Commencement Graduate Speaker
+    - year: 2018
+      items:
+        - Illinois Tech Best Student Paper Award
+    - year: 2014
+      items:
+        - Illinois Tech Best Teaching Assistant
+        - Tsao Fund Scholarship for Outstanding Academic Performance
+    - year: 2012
+      items:
+        - Univ of Piraeus Fellowship for Academic Excellence top 3 of the class
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Not specified in CV

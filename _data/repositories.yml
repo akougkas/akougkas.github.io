@@ -1,5 +1,6 @@
 github_users:
 
+repo_description_lines_max: 2
 github_repos:
   - grc-iit/ChronoLog
   - grc-iit/DTIO
