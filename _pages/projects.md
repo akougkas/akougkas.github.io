@@ -3,7 +3,7 @@ layout: page
 title: projects
 permalink: /projects/
 description: A collection of projects I have worked on.
-nav: true
+nav: false
 nav_order: 1
 display_categories: [NSF, DOE]
 horizontal: false
